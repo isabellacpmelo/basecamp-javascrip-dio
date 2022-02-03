@@ -1,0 +1,49 @@
+Operadores
+
+1. Atribuição
+
+Operador | Exemplo | Equivale a 
+    =    |  x = y  |  x = y
+   +=    | x += y  | x = x + y
+   *=    | x *= y  | x = x * y
+   /=    | x /= y  | x = x / y
+   %=    | x %= y  | x = x % y
+
+2. Aritmética
+
+Operador | Descrição
+   +     | Adição
+   -     | Subtração
+   *     | Multiplicação
+   **    | Exponenciação
+   /     | Divisão 
+   %     | Módulo
+   ++    | Incrementar
+   --    | Decrementar
+
+3. Comparação
+
+Operador | Descrição
+   ==    | Igual a
+   ===   | Mesmo valor e mesmo tipo
+   !=    | Diferente
+   !==   | Valor e tipos diferentes
+   >     | Maior que 
+   <     | Menor que
+   >=    | Maior ou igual
+   <=    | Menor ou igual
+
+4. Lógica
+Operador | Descrição
+   &&    | "e" lógico
+   ||    | "ou" lógico
+   !     | "não" lógico
+
+5. Condional (ternário)
+(condition) ? expression1 : expression2
+
+  if (condition)
+     statement;
+  else
+     statement;
+
