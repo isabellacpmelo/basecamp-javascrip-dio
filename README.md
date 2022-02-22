@@ -1,5 +1,5 @@
 # Aprendizado de Programação na DIO
-Repositório para salvar códigos aprendidos na Plataforma DIO. 
+Repositório para salvar códigos de Javascript aprendidos na Plataforma DIO. 
 
 ## Conteúdos do repositório:
 
