@@ -1,4 +1,4 @@
-# Aprendizado de Programação na DIO
+# Aprendizado de Javascript na DIO
 Repositório para salvar códigos de Javascript aprendidos na Plataforma DIO. 
 
 <img width="200" src="java.gif">
