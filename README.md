@@ -7,15 +7,17 @@ Repositório para salvar códigos de Javascript aprendidos na Plataforma DIO.
 
 1. Lógica de Programação
 2. Introdução ao HTML e CSS3
-3. Construindo Páginas com Bootstrap
-4. Introdução ao JavaScript
-5. Sintaxe Básica em JavaScript
-6. Sintaxe e Operadores (Utilizando JS)
-7. Variáveis e Tipos (JS)
+3. Introdução ao JavaScript
+4. Sintaxe Básica em JavaScript
+5. Sintaxe e Operadores (Utilizando JS)
+6. Variáveis e Tipos (JS)
+7. Funções
+8. Javascript Assíncrono
+9. Orientação a Objetos
+10. Map, Filter e Reduce
 
 ## Ferramentas Utilizadas
 
 - HTML5
 - CSS3
 - Javascript
-- Bootstrap
